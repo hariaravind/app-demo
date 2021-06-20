@@ -1,0 +1,9 @@
+ipython==7.23.1
+jupyter notebook==6.3.0
+numpy==1.20.3
+pandas==1.2.4
+matplotlib==3.2.1
+sklearn==0.0
+imlearn==0.0
+streamlit==0.82.0
+bokeh==2.0.0
